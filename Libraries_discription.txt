@@ -1,0 +1,71 @@
+🧰 Libraries Used and Their Descriptions
+1. Pandas (import pandas as pd)
+Purpose:
+Pandas is the core library for data manipulation and analysis.
+
+Used for:
+
+Reading and loading the dataset (read_csv)
+
+Handling missing values (isnull, fillna, dropna)
+
+Data filtering and slicing
+
+Grouping and aggregating data (groupby, value_counts)
+
+DataFrame operations (creating new columns, merging, etc.)
+
+2. NumPy (import numpy as np)
+Purpose:
+NumPy is used for numerical operations and handling arrays.
+
+Used for:
+
+Working with missing data (np.nan)
+
+Numerical conversions and mathematical operations
+
+Efficient data manipulation when working with numerical features
+
+3. Matplotlib (import matplotlib.pyplot as plt)
+Purpose:
+Matplotlib is a plotting library for creating static, animated, and interactive visualizations.
+
+Used for:
+
+Creating basic visualizations like bar charts, pie charts, line plots
+
+Customizing plot elements (titles, axes, legends)
+
+Displaying plots (plt.show())
+
+4. Seaborn (import seaborn as sns)
+Purpose:
+Seaborn is built on top of matplotlib and simplifies statistical plotting with a cleaner design.
+
+Used for:
+
+Creating advanced visualizations like heatmaps, boxplots, violin plots, histograms, scatterplots
+
+Aesthetic styling of plots for better readability
+
+Handling categorical vs numerical plotting
+
+5. WordCloud (from wordcloud import WordCloud)
+Purpose:
+WordCloud is used to generate word clouds — a visual representation of text data.
+
+Used for:
+
+Creating visual frequency maps of the most common cuisines or restaurant types
+
+Presenting textual patterns in an appealing and digestible format
+
+🧠 Summary Table:
+Library	Purpose	Used For
+Pandas	Data manipulation & cleaning	Load CSV, filter, group, missing value handling
+NumPy	Numerical operations	Missing values, numeric arrays
+Matplotlib	Basic data visualization	Bar charts, pie charts, plot customization
+Seaborn	Advanced & aesthetic visualization	Heatmaps, scatterplots, rating vs cost analysis
+WordCloud	Text visualization	Common cuisines, restaurant types
+
