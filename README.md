@@ -135,30 +135,17 @@ You can switch between them using the sidebar option 🌗.
 
 Here are some key screenshots of the Zomato Data Analysis Dashboard:
 
-### 1️⃣ Home Page
 <p align="center">
-  <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/Home.png" width="300"/>
+  <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/Home.png" width="200"/>
+  <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/EDA.png" width="200"/>
+  <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/Map.png" width="200"/>
 </p>
 
-### 2️⃣ Exploratory Data Analysis (EDA)
 <p align="center">
-  <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/EDA.png" width="300"/>
+  <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/Top%2010%20Restaurants.png" width="200"/>
+  <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/workflow.png" width="200"/>
 </p>
 
-### 3️⃣ Map Visualization
-<p align="center">
-  <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/Map.png" width="300"/>
-</p>
-
-### 4️⃣ Top 10 Restaurants
-<p align="center">
-  <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/Top%2010%20Restaurants.png" width="300"/>
-</p>
-
-### 5️⃣ Project Workflow
-<p align="center">
-  <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/workflow.png" width="300"/>
-</p>
 
 
 ## 📚 Insights You Can Derive
