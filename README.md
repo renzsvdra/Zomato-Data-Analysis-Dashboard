@@ -36,7 +36,8 @@ An **interactive Streamlit web application** for analyzing Zomato restaurant dat
 ---
 
 ## Project Workflow
-![Workflow](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/workflow.png)
+![Workflow]
+<img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/workflow.png" alt="Workflow" height="300"/>
 
 ---
 
