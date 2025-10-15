@@ -131,7 +131,24 @@ You can switch between them using the sidebar option 🌗.
 🗺️ **Interactive Map with Rating Filter**  
 🏆 **Top Restaurants Leaderboard**
 
-*(Screenshots will be included in the repository with links.)*
+## 🖼️ Gallery / Screenshots
+
+Here are some key screenshots of the Zomato Data Analysis Dashboard:
+
+### 1️⃣ Home Page
+![Home](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/Home.png)
+
+### 2️⃣ Exploratory Data Analysis (EDA)
+![EDA](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/EDA.png)
+
+### 3️⃣ Map Visualization
+![Map](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/Map.png)
+
+### 4️⃣ Top 10 Restaurants
+![Top 10 Restaurants](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/Top%2010%20Restaurants.png)
+
+### 5️⃣ Project Workflow
+![Workflow](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/workflow.png)
 
 ---
 
