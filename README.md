@@ -35,6 +35,11 @@ An **interactive Streamlit web application** for analyzing Zomato restaurant dat
 
 ---
 
+## Project Workflow
+![Workflow](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/workflow.png)
+
+---
+
 ## 🎯 Objective
 
 The goal of this project is to explore and analyze the **Zomato restaurant dataset** to uncover meaningful trends and patterns that can help businesses make **data-driven decisions**.
@@ -82,8 +87,6 @@ Specifically:
 | **Dataset** | Zomato Dataset (`zomato.csv`) |
 
 ---
-### 5️⃣ Project Workflow
-![Workflow](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/workflow.png)
 
 ## 📁 Dataset Overview
 
