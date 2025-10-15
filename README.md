@@ -95,7 +95,7 @@ Specifically:
 | `Aggregate rating` | Average customer rating |
 | `Votes` | Number of user ratings |
 
-> 📌 *Dataset Source: [Kaggle - Zomato Dataset](https://www.kaggle.com/datasets)*
+> 📌 *Dataset Source: [Kaggle - Zomato Dataset](https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data)*
 
 ---
 
