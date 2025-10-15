@@ -166,7 +166,57 @@ You can switch between them using the sidebar option 🌗.
 - [🌐 GitHub](https://github.com/shivareddy2002)  
 
 ---
+## 🖼️ Visual Workflow
 
+```mermaid
+flowchart LR
+    %% --- Data Loading & Cleaning Stage ---
+    subgraph DC[📂 Data Loading & Cleaning]
+        A["📦 Import Libraries (Pandas, NumPy, Streamlit, Plotly, Sklearn)"]
+        B["📄 Load Zomato Dataset (zomato.csv)"]
+        C["✂️ Clean & Preprocess Data\n(Handle Nulls + Standardize Columns + Remove Duplicates)"]
+    end
+
+    %% --- Filtering & EDA Stage ---
+    subgraph FE[📊 Filtering & EDA]
+        D["🔎 Apply Filters\n(City, Online Delivery, Table Booking)"]
+        E["📈 EDA Visualization\n(Top Cuisines, Rating Distribution, Price vs Rating, WordCloud)"]
+    end
+
+    %% --- Recommendation System Stage ---
+    subgraph RS[🤖 Recommendation System]
+        F["🏗️ Build TF-IDF Matrix"]
+        G["⚡ Compute Cosine Similarity"]
+        H["🎯 Recommend Similar Restaurants"]
+    end
+
+    %% --- Map & Leaderboard Stage ---
+    subgraph ML[🗺️ Map & Leaderboard]
+        I["🗺️ Interactive Map\n(Filter by Rating, Highlight Top 3)"]
+        J["🏆 Top Restaurants Leaderboard\n(Display Thumbnails, Ratings, Avg Cost)"]
+    end
+
+    %% --- Deployment Stage ---
+    subgraph DEP[🚀 Deployment]
+        K["🌐 Streamlit Deployment\n(Interactive Web Dashboard)"]
+    end
+
+    %% --- Flow Connections ---
+    A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K
+
+    %% --- Styles ---
+    style A fill:#FFD54F,stroke:#F57F17,stroke-width:2px,color:#000
+    style B fill:#4FC3F7,stroke:#0277BD,stroke-width:2px,color:#fff
+    style C fill:#AED581,stroke:#33691E,stroke-width:2px,color:#000
+    style D fill:#BA68C8,stroke:#4A148C,stroke-width:2px,color:#fff
+    style E fill:#FF8A65,stroke:#BF360C,stroke-width:2px,color:#fff
+    style F fill:#90CAF9,stroke:#0D47A1,stroke-width:2px,color:#000
+    style G fill:#F48FB1,stroke:#880E4F,stroke-width:2px,color:#fff
+    style H fill:#A1887F,stroke:#4E342E,stroke-width:2px,color:#fff
+    style I fill:#81C784,stroke:#2E7D32,stroke-width:2px,color:#000
+    style J fill:#FFB74D,stroke:#E65100,stroke-width:2px,color:#000
+    style K fill:#F44336,stroke:#B71C1C,stroke-width:2px,color:#fff
+```
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c74f,100:ff4b4b&height=120&section=footer"/>
 </p>
