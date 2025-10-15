@@ -21,12 +21,17 @@
 An **interactive Streamlit web application** for analyzing Zomato restaurant data and recommending similar restaurants using **TF-IDF** and **Cosine Similarity**. The dashboard includes **EDA (Exploratory Data Analysis)** visualizations, **interactive maps**, and **restaurant recommendations** with a modern, theme-adaptive UI.
 
 ## 🔗 Live Demo
+
 <p align="center">
-  <a href="[https://zomato-data-analysis-dashboard.streamlit.app/]" target="_blank">
+  <a href="https://zomato-data-analysis-dashboard.streamlit.app/" target="_blank">
     <img alt="Open Live Demo" src="https://img.shields.io/badge/Open%20App-Zomato%20Dashboard-red?style=for-the-badge&logo=streamlit&logoColor=white"/>
   </a>
 </p>
-<p align="center"><b>🍴 Zomato Data Analysis Dashboard & Recommendation System —</b> 🌐 <a href="[https://zomato-data-analysis-dashboard.streamlit.app/]" target="_blank">Live Demo</a></p>
+
+<p align="center">
+  <b>🍴 Zomato Data Analysis Dashboard & Recommendation System —</b> 🌐 
+  <a href="https://zomato-data-analysis-dashboard.streamlit.app/" target="_blank">Open Live Demo</a>
+</p>
 
 ---
 
