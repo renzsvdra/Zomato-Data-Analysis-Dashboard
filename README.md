@@ -82,6 +82,8 @@ Specifically:
 | **Dataset** | Zomato Dataset (`zomato.csv`) |
 
 ---
+### 5️⃣ Project Workflow
+![Workflow](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/workflow.png)
 
 ## 📁 Dataset Overview
 
