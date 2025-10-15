@@ -11,15 +11,14 @@
   <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" />
   <img src="https://img.shields.io/badge/Visualization-Seaborn%20|%20Matplotlib-yellow" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
+  <img src="https://img.shields.io/badge/Streamlit-1.26.1-orange?logo=streamlit&logoColor=white" />
 </p>
 
 ---
 
 # 🍴 Zomato Data Analysis Dashboard & Recommendation System
 
-An **interactive Streamlit web application** for analyzing Zomato restaurant data and recommending similar restaurants using **TF-IDF** and **Cosine Similarity**.  
-The dashboard includes **EDA (Exploratory Data Analysis)** visualizations, **interactive maps**, and **restaurant recommendations** with a modern, theme-adaptive UI.
+An **interactive Streamlit web application** for analyzing Zomato restaurant data and recommending similar restaurants using **TF-IDF** and **Cosine Similarity**. The dashboard includes **EDA (Exploratory Data Analysis)** visualizations, **interactive maps**, and **restaurant recommendations** with a modern, theme-adaptive UI.
 
 ---
 
@@ -62,11 +61,11 @@ Specifically:
 
 | Component | Technology |
 |------------|-------------|
-| **Frontend/UI** | Streamlit |
-| **Data Handling** | Pandas, NumPy |
-| **Visualization** | Plotly Express, Matplotlib, Seaborn, WordCloud |
-| **Machine Learning** | Scikit-learn (TF-IDF, Cosine Similarity) |
 | **Language** | Python |
+| **Data Handling** | Pandas, NumPy |
+| **Visualization** | Matplotlib, Seaborn, WordCloud, Plotly Express |
+| **Machine Learning** | Scikit-learn (TF-IDF, Cosine Similarity) |
+| **Frontend/UI** | Streamlit |
 | **Dataset** | Zomato Dataset (`zomato.csv`) |
 
 ---
@@ -102,8 +101,6 @@ Specifically:
 The app supports both **Light Mode** and **Dark Mode** for enhanced viewing.  
 You can switch between them using the sidebar option 🌗.
 
----
-
 ## 🧭 Navigation
 
 | Section | Description |
@@ -112,8 +109,6 @@ You can switch between them using the sidebar option 🌗.
 | **EDA Dashboards** | View data insights and plots. |
 | **Map Visualization** | Explore restaurant locations. |
 | **Top Restaurants** | See the best-rated restaurants. |
-
----
 
 ## 📊 Sample Visuals
 
@@ -124,17 +119,6 @@ You can switch between them using the sidebar option 🌗.
 🏆 **Top Restaurants Leaderboard**
 
 *(Screenshots will be included in the repository with links.)*
-
----
-
-## 🧩 Key Functions
-
-| Function | Description |
-|-----------|-------------|
-| `load_data()` | Loads and cleans the dataset. |
-| `filter_data()` | Applies user-selected filters (city, delivery, booking). |
-| `get_top3()` | Returns top 3 restaurants by rating. |
-| `build_tfidf_matrix()` | Builds TF-IDF feature matrix for recommendation system. |
 
 ---
 
