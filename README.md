@@ -139,11 +139,7 @@ Here are some key screenshots of the Zomato Data Analysis Dashboard:
   <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/Home.png" width="200"/>
   <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/EDA.png" width="200"/>
   <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/Map.png" width="200"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/Top%2010%20Restaurants.png" width="200"/>
-  <img src="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard/blob/main/Galary/workflow.png" width="200"/>
 </p>
 
 
