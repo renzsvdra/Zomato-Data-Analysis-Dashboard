@@ -1,3 +1,21 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b4b,100:f9c74f&height=180&section=header&text=🍽️%20Zomato%20Data%20Analysis%20Using%20Python&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <b>📊 Extracting Business Insights from Zomato’s Restaurant Data using Python</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" />
+  <img src="https://img.shields.io/badge/Visualization-Seaborn%20|%20Matplotlib-yellow" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
+
+---
+
 # 🍴 Zomato Data Analysis Dashboard & Recommendation System
 
 An **interactive Streamlit web application** for analyzing Zomato restaurant data and recommending similar restaurants using **TF-IDF** and **Cosine Similarity**.  
@@ -5,27 +23,37 @@ The dashboard includes **EDA (Exploratory Data Analysis)** visualizations, **int
 
 ---
 
+## 🎯 Objective
+
+The goal of this project is to explore and analyze the **Zomato restaurant dataset** to uncover meaningful trends and patterns that can help businesses make **data-driven decisions**.
+
+Specifically:
+- 🧠 Understand data structure & quality  
+- 🍜 Identify cuisine and restaurant trends  
+- 🌆 Examine ratings & delivery preferences across locations  
+- 💸 Analyze cost patterns in different cities
+
+---
+
 ## 🚀 Features
 
 ### 🔍 1. Restaurant Recommendation System
-- Select any restaurant and get top similar restaurants based on **cuisine, cost, and rating**.  
+- Select any restaurant and get **top similar restaurants** based on **cuisine, cost, and rating**.  
 - Uses **TF-IDF vectorization** and **cosine similarity** to find restaurant similarities.  
 - Customizable number of recommendations (1–10).  
 
 ### 📊 2. Interactive EDA Dashboards
-- View key performance indicators (KPIs) like **total restaurants**, **average rating**, and **average cost**.  
-- Explore **top cuisines** with dynamic bar charts.  
-- Visualize **rating distributions** (highlighting top 3 restaurants).  
-- Analyze **Price vs Rating** scatter plots.  
-- Generate **WordClouds** from cuisine data.  
+- Explore **KPIs** such as total restaurants, average rating, and average cost.  
+- Visualize **Top Cuisines**, **Rating Distributions**, and **Price vs Rating**.  
+- Generate **Cuisine WordClouds** for quick insights.  
 
 ### 🗺️ 3. Map Visualization
-- Interactive map of restaurant locations using **Plotly Mapbox**.  
+- Interactive **Plotly Mapbox** map showing restaurant locations.  
 - Filter by **rating range** dynamically.  
-- Highlights **Top 3 restaurants** on the map with gold stars.  
+- Highlights **Top 3 restaurants** with gold stars.  
 
 ### 🏆 4. Top Restaurants Leaderboard
-- Displays the **Top 10 restaurants** based on ratings.  
+- Displays **Top 10 restaurants** based on ratings.  
 - Includes thumbnails, cuisines, and average costs.  
 
 ---
@@ -36,10 +64,26 @@ The dashboard includes **EDA (Exploratory Data Analysis)** visualizations, **int
 |------------|-------------|
 | **Frontend/UI** | Streamlit |
 | **Data Handling** | Pandas, NumPy |
-| **Visualization** | Plotly Express, Matplotlib, WordCloud |
+| **Visualization** | Plotly Express, Matplotlib, Seaborn, WordCloud |
 | **Machine Learning** | Scikit-learn (TF-IDF, Cosine Similarity) |
 | **Language** | Python |
 | **Dataset** | Zomato Dataset (`zomato.csv`) |
+
+---
+
+## 📁 Dataset Overview
+
+| Column | Description |
+|--------|-------------|
+| `Restaurant Name` | Name of the restaurant |
+| `Location` | City / Area |
+| `Cuisines` | Cuisine types served |
+| `Average Cost for two` | Cost for two people |
+| `Has Online delivery` | Yes / No |
+| `Aggregate rating` | Average customer rating |
+| `Votes` | Number of user ratings |
+
+> 📌 *Dataset Source: [Kaggle - Zomato Dataset](https://www.kaggle.com/datasets)*
 
 ---
 
@@ -54,6 +98,7 @@ The dashboard includes **EDA (Exploratory Data Analysis)** visualizations, **int
 ---
 
 ## 🌗 UI Theme
+
 The app supports both **Light Mode** and **Dark Mode** for enhanced viewing.  
 You can switch between them using the sidebar option 🌗.
 
@@ -76,7 +121,7 @@ You can switch between them using the sidebar option 🌗.
 ⭐ **Rating Distribution (highlighted Top 3)**  
 ☁️ **Cuisine WordCloud**  
 🗺️ **Interactive Map with Rating Filter**  
-🏆 **Top Restaurants Leaderboard**  
+🏆 **Top Restaurants Leaderboard**
 
 *(Screenshots will be included in the repository with links.)*
 
@@ -94,10 +139,13 @@ You can switch between them using the sidebar option 🌗.
 ---
 
 ## 📚 Insights You Can Derive
-- Most popular cuisines in each city.  
-- Correlation between **price range** and **ratings**.  
-- Restaurant distribution by **rating range**.  
-- Identify **high-performing restaurants** for recommendations.  
+
+- 🏙️ **Delhi NCR** has the maximum number of restaurants.  
+- 🍕 **North Indian** is the most common cuisine.  
+- ⭐ Ratings tend to be higher for fine dining than for cafés.  
+- 🛵 Online delivery is more popular in metropolitan areas.  
+- 💰 Average cost for two varies significantly between cities.  
+- 📊 Identify **high-performing restaurants** for recommendations.  
 
 ---
 
@@ -112,7 +160,9 @@ You can switch between them using the sidebar option 🌗.
 **E. Recommendation System**
 
 ---
+
 ## 🏁 Future Improvements
+
 - ✅ Add sentiment analysis on customer reviews.  
 - ✅ Include filter for cuisine-specific recommendations.  
 - ✅ Integrate real-time Zomato API for live data.  
@@ -122,14 +172,17 @@ You can switch between them using the sidebar option 🌗.
 ## 👨‍💻 Author  
 
 **Lomada Siva Gangi Reddy**  
-- 🎓 B.Tech CSE (Data Science), RGMCET (2021–2025)  
-- 🎯 Aspiring Data Analyst | Skilled in Python, SQL, Power BI, and Data Science  
-- 📍 Open to **Internships & Job Offers**  
+🎓 B.Tech CSE (Data Science), RGMCET (2021–2025)  
+🎯 Aspiring Data Analyst | Skilled in Python, SQL, Power BI, and Data Science  
+📍 Open to **Internships & Job Offers**
 
-📬 **Contact Me**:  
+📬 **Contact Me**  
 - 📞 9346493592  
-- [💼 LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/) [🌐 GitHub](https://github.com/shivareddy2002)  
+- [💼 LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/)  
+- [🌐 GitHub](https://github.com/shivareddy2002)  
 
 ---
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c74f,100:ff4b4b&height=120&section=footer"/>
+</p>
