@@ -22,11 +22,11 @@ An **interactive Streamlit web application** for analyzing Zomato restaurant dat
 
 ## 🔗 Live Demo
 <p align="center">
-  <a href="https://your-zomato-app-url" target="_blank">
+  <a href="[https://zomato-data-analysis-dashboard.streamlit.app/]" target="_blank">
     <img alt="Open Live Demo" src="https://img.shields.io/badge/Open%20App-Zomato%20Dashboard-red?style=for-the-badge&logo=streamlit&logoColor=white"/>
   </a>
 </p>
-<p align="center"><b>🍴 Zomato Data Analysis Dashboard & Recommendation System —</b> 🌐 <a href="https://your-zomato-app-url" target="_blank">Live Demo</a></p>
+<p align="center"><b>🍴 Zomato Data Analysis Dashboard & Recommendation System —</b> 🌐 <a href="[https://your-zomato-app-url](https://zomato-data-analysis-dashboard.streamlit.app/)" target="_blank">Live Demo</a></p>
 
 ---
 
