@@ -133,54 +133,21 @@ You can switch between them using the sidebar option 🌗.
 
 ---
 
-## 🔄 Workflow Overview
-
-**A → B → C → D → E**
-
-**A. Data Loading & Cleaning** →  
-**B. Filtering by City/Services** →  
-**C. EDA Visualization** →  
-**D. Map Visualization** →  
-**E. Recommendation System**
-
----
-
-## 🏁 Future Improvements
-
-- ✅ Add sentiment analysis on customer reviews.  
-- ✅ Include filter for cuisine-specific recommendations.  
-- ✅ Integrate real-time Zomato API for live data.  
-
----
-
-## 👨‍💻 Author  
-
-**Lomada Siva Gangi Reddy**  
-🎓 B.Tech CSE (Data Science), RGMCET (2021–2025)  
-🎯 Aspiring Data Analyst | Skilled in Python, SQL, Power BI, and Data Science  
-📍 Open to **Internships & Job Offers**
-
-📬 **Contact Me**  
-- 📞 9346493592  
-- [💼 LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/)  
-- [🌐 GitHub](https://github.com/shivareddy2002)  
-
----
 ## 🖼️ Visual Workflow
 
 ```mermaid
 flowchart LR
     %% --- Data Loading & Cleaning Stage ---
     subgraph DC[📂 Data Loading & Cleaning]
-        A["📦 Import Libraries (Pandas, NumPy, Streamlit, Plotly, Sklearn)"]
-        B["📄 Load Zomato Dataset (zomato.csv)"]
-        C["✂️ Clean & Preprocess Data\n(Handle Nulls + Standardize Columns + Remove Duplicates)"]
+        A["📦 Import Libraries "]
+        B["📄 Load Zomato Dataset "]
+        C["✂️ Clean & Preprocess Data"]
     end
 
     %% --- Filtering & EDA Stage ---
     subgraph FE[📊 Filtering & EDA]
-        D["🔎 Apply Filters\n(City, Online Delivery, Table Booking)"]
-        E["📈 EDA Visualization\n(Top Cuisines, Rating Distribution, Price vs Rating, WordCloud)"]
+        D["🔎 Apply Filters"]
+        E["📈 EDA Visualization"]
     end
 
     %% --- Recommendation System Stage ---
@@ -192,8 +159,8 @@ flowchart LR
 
     %% --- Map & Leaderboard Stage ---
     subgraph ML[🗺️ Map & Leaderboard]
-        I["🗺️ Interactive Map\n(Filter by Rating, Highlight Top 3)"]
-        J["🏆 Top Restaurants Leaderboard\n(Display Thumbnails, Ratings, Avg Cost)"]
+        I["🗺️ Interactive Map"]
+        J["🏆 Top Restaurants Leaderboard"]
     end
 
     %% --- Deployment Stage ---
@@ -217,6 +184,28 @@ flowchart LR
     style J fill:#FFB74D,stroke:#E65100,stroke-width:2px,color:#000
     style K fill:#F44336,stroke:#B71C1C,stroke-width:2px,color:#fff
 ```
+
+## 🏁 Future Improvements
+
+- ✅ Add sentiment analysis on customer reviews.  
+- ✅ Include filter for cuisine-specific recommendations.  
+- ✅ Integrate real-time Zomato API for live data.  
+
+---
+
+## 👨‍💻 Author  
+
+**Lomada Siva Gangi Reddy**  
+🎓 B.Tech CSE (Data Science), RGMCET (2021–2025)  
+🎯 Aspiring Data Analyst | Skilled in Python, SQL, Power BI, and Data Science  
+📍 Open to **Internships & Job Offers**
+
+📬 **Contact Me**  
+- 📞 9346493592  
+- [💼 LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/)  
+- [🌐 GitHub](https://github.com/shivareddy2002)  
+
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c74f,100:ff4b4b&height=120&section=footer"/>
 </p>
