@@ -152,9 +152,9 @@ flowchart LR
 
     %% --- Recommendation System Stage ---
     subgraph RS[🤖 Recommendation System]
-        F["🏗️ Build TF-IDF Matrix"]
-        G["⚡ Compute Cosine Similarity"]
-        H["🎯 Recommend Similar Restaurants"]
+        F["Build TF-IDF Matrix"]
+        G["Cosine Similarity"]
+        H["Top Recommendations"]
     end
 
     %% --- Map & Leaderboard Stage ---
