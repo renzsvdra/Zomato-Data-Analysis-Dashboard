@@ -230,8 +230,7 @@ flowchart LR
 
 📬 **Contact Me**  
 - 📞 9346493592  
-- [💼 LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/)  
-- [🌐 GitHub](https://github.com/shivareddy2002)  
+- [💼 LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/)  [🌐 GitHub](https://github.com/shivareddy2002)  
 
 ---
 <p align="center">
